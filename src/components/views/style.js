@@ -7,6 +7,15 @@ const STYLE = {
   },
   viewsText: {
     color: "blue"
+  },
+  verify: {
+    backgroundColor: "#ff3b30",
+    width: 200,
+    alignItems: "center",
+    padding: 8
+  },
+  verifyText: {
+    color: "#ffffff"
   }
 };
 
